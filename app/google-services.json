@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068811788883",
+    "firebase_url": "https://book-app-24500-default-rtdb.firebaseio.com",
+    "project_id": "book-app-24500",
+    "storage_bucket": "book-app-24500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068811788883:android:ef23e47b28bee28d539ca6",
+        "android_client_info": {
+          "package_name": "com.example.appdoctruyen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068811788883-aimaj7g2uepu80o1ss2h4mun7jph6eoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appdoctruyen",
+            "certificate_hash": "5d31a3eb6bef57700ee4bc2efecfd23f13837d54"
+          }
+        },
+        {
+          "client_id": "1068811788883-nf91q1ld6e5369vcrfbop5d28a47ud3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUNFqS5_x887PL7SyqT535RcTCU6yTSHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068811788883-nf91q1ld6e5369vcrfbop5d28a47ud3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
